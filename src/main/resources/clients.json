@@ -8,5 +8,5 @@
   {"id":1,"rut":"45678901-2","first_name":"test","last_name":"test","date_birth":"1996-05-10","mobile_phone":"321098765","email":"test@gmail.com","address":null,"city_id":null,"session_active":true,"password":"1234"},
   {"id":1,"rut":"56789012-3","first_name":"test","last_name":"test","date_birth":"1996-05-10","mobile_phone":"210987654","email":"test@gmail.com","address":null,"city_id":null,"session_active":true,"password":"4567"},
   {"id":1,"rut":"67890123-4","first_name":"test","last_name":"test","date_birth":"1996-05-10","mobile_phone":"109876543","email":"test@gmail.com","address":null,"city_id":null,"session_active":true,"password":"6789"},
-  {"id":1,"rut":"78901234-5","first_name":"test","last_name":"test","date_birth":"1996-05-10","mobile_phone":"098765432","email":"test@gmail.com","address":null,"city_id":null,"session_active":true,"password":"1234"},
+  {"id":1,"rut":"78901234-5","first_name":"test","last_name":"test","date_birth":"1996-05-10","mobile_phone":"098765432","email":"test@gmail.com","address":null,"city_id":null,"session_active":true,"password":"1234"}
 ]
